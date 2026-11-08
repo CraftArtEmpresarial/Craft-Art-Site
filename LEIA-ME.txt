@@ -1,0 +1,28 @@
+CRAFT ART 3D — SITE
+=====================
+
+COMO ABRIR
+1. Extraia a pasta CraftArt3D.zip.
+2. Abra a pasta CraftArt3D.
+3. Dê dois cliques em index.html para abrir no navegador.
+
+ARQUIVOS
+- index.html: estrutura e conteúdo do site.
+- style.css: cores, layout, responsividade e animações.
+- script.js: menu mobile, filtros, animações e links de contato.
+- assets/logo-craft-art-3d.jpg: imagem da logo enviada.
+
+DADOS JÁ CONFIGURADOS
+- Instagram: https://www.instagram.com/craft.art.3d/
+- WhatsApp: (19) 99769-0904
+- Link WhatsApp: https://wa.me/5519977690904
+
+PERSONALIZAÇÃO
+Os exemplos de produtos são ilustrativos e não exibem preços inventados.
+Para alterar telefone ou Instagram, procure os links no index.html e o número
+no script.js. O site usa a fonte Google Fonts quando há internet; sem internet,
+o navegador usa fontes alternativas.
+
+Para publicar na internet, envie o conteúdo da pasta para uma hospedagem estática
+como GitHub Pages, Netlify ou Vercel. O site abre localmente, mas ainda não é
+uma loja com pagamentos, painel administrativo ou banco de dados.

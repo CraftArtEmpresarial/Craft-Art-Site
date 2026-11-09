@@ -36,14 +36,14 @@ document.querySelectorAll('.quote-product').forEach(button => {
   button.addEventListener('click', () => {
     const product = button.dataset.product;
     const message = `Olá, Craft Art 3D! Tenho interesse em: ${product}. Gostaria de saber os modelos, cores e valores.`;
-    window.open(`https://wa.me/5519977690904?text=${encodeURIComponent(message)}`, '_blank', 'noopener');
+    window.open(`https://wa.me/5519997690904?text=${encodeURIComponent(message)}`, '_blank', 'noopener');
   });
 });
 
 document.querySelectorAll('[data-service]').forEach(link => {
   link.addEventListener('click', () => {
     const message = `Olá, Craft Art 3D! Tenho interesse em ${link.dataset.service}. Podemos conversar?`;
-    link.href = `https://wa.me/5519977690904?text=${encodeURIComponent(message)}`;
+    link.href = `https://wa.me/5519997690904?text=${encodeURIComponent(message)}`;
     link.target = '_blank';
   });
 });
